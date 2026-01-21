@@ -1,6 +1,7 @@
 # Irradiance Dynamic Heatmap
 This python notebook goes through how to extract data from the coppernicus database. This jupyten notebook cannot be previewd in github, but to run you could open it through google colab or in a local jupyter notebook intepreter
 
+My google colab code: https://colab.research.google.com/drive/1OSbH1QFRAnpgIwXDDmk8_zap0tEFk9Ou?usp=sharing
 
 Data source:
 
