@@ -36,5 +36,5 @@ Inside of Roboflow you'll need to setup a new online annotated image dataset.
 
 
 My google colab code:
-Heatmap: [https://colab.research.google.com/drive/1OSbH1QFRAnpgIwXDDmk8_zap0tEFk9Ou?usp=sharing]
-Image-recognition: [https://colab.research.google.com/drive/1rGhPuab-VQQFZt39sxPTwOPPFqh4hM8J?usp=sharing]
+- Heatmap: [https://colab.research.google.com/drive/1OSbH1QFRAnpgIwXDDmk8_zap0tEFk9Ou?usp=sharing]
+- Image recognition: [https://colab.research.google.com/drive/1rGhPuab-VQQFZt39sxPTwOPPFqh4hM8J?usp=sharing]
