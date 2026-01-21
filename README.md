@@ -4,6 +4,4 @@ Irradiance data:
 Temperature data:
 
 And then create dynamic heatmaps such as
-
-
-and line graphs with sliders such as
+![](/images/heatmap_GHI.png)
