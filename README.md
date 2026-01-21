@@ -8,9 +8,7 @@ In case The jupyter notebooks cannot be previewd in github, but to run you could
 
 ## Irradiance Dynamic Heatmap
 This python notebook goes through how to extract data from the coppernicus database. To start you would need to make a coppernicus account and recieve the API key.
-To get the key, open [https://ads.atmosphere.copernicus.eu/profile] and copy the API key into the 2nd Cell of the notebook at the `coppernicus_key` variable.
-
-My google colab code: https://colab.research.google.com/drive/1OSbH1QFRAnpgIwXDDmk8_zap0tEFk9Ou?usp=sharing
+To get the key, open https://ads.atmosphere.copernicus.eu/profile and copy the API key into the 2nd Cell of the notebook `Irradiance_Dynamic_Heatmap_Tutorial.ipynb` at the `coppernicus_key` variable.
 
 Data source:
 - Irradiance data: https://ads.atmosphere.copernicus.eu/datasets/cams-gridded-solar-radiation
@@ -21,8 +19,6 @@ The final results woud be a dynamic heatmaps such as
 
 ## Solar panel image recognition
 Solar panel image recognition using the YOLO model through the Roboflow server.
-
-Our google collab notebook: https://colab.research.google.com/drive/1rGhPuab-VQQFZt39sxPTwOPPFqh4hM8J?usp=sharing
 
 To start you would need to make an account and project in Roboflow: https://app.roboflow.com/.
 Inside of Roboflow you'll need to setup a new online annotated image dataset.
@@ -37,3 +33,8 @@ Inside of Roboflow you'll need to setup a new online annotated image dataset.
 7. run the model and check the results
 
 ![](/images/Yolo-Result.jpeg)
+
+
+My google colab code:
+Heatmap: [https://colab.research.google.com/drive/1OSbH1QFRAnpgIwXDDmk8_zap0tEFk9Ou?usp=sharing]
+Image-recognition: [https://colab.research.google.com/drive/1rGhPuab-VQQFZt39sxPTwOPPFqh4hM8J?usp=sharing]
